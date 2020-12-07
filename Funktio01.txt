@@ -1,0 +1,113 @@
+funktiot (metodit)
+
+esim 
+// paluuarvon tyyppi = int, saa käyttöön int tyyppisen arvon "parametri"
+int TeeJotain(int parametri)
+
+{
+
+parametri = parametri +1;
+return parametri; // palautaa jotain
+
+}
+
+//paluuarvon tyyppi voi olla myös "void" = 'ei mitään'
+//pilkulla erotettuja parametrejä voi olla 0 - n kpl
+
+File/New/project/visual c# / windows desktop/console app(.net framework)
+___________________________________
+            //Math.Round pyöristää oikein
+            //Math.Ceiling pyöristää ylöspäin
+            //Math.Floor pyöristää alaspäin
+
+tulostaa random luvut
+            Console.WriteLine("Tulos on " +r.Next(1,10));
+            Console.WriteLine("Tulos on " +r.Next(1,10));
+            Console.WriteLine("Tulos on " +r.Next(1,10));
+            Console.WriteLine("Tulos on " +r.Next(1,10));
+
+_______________________________________________
+esim lottonum. sattunais luku 40
+Random r = new Random();            //muka satunnais luku   
+            //toinen vers, mutta desimaalilukuna & Math.Floorin kanssa nii pyöristyy
+            for (int i = 0; i < 7; i++)
+            {
+                double luku = r.NextDouble();
+                Console.WriteLine("Tulos on " + Math.Floor(luku * 40 + 1));
+            }
+
+_______________________________________________
+//b tulostaa vakioveikkaus "1" "x" "2"
+            for (int i = 0; i < 13; i++)
+            {
+                double luku = r.NextDouble(); //välilt 0..1
+                if (Math.Floor(luku * 3 + 1) == 3) //jos tulee kolmonen niin sen tilalle tulee X
+                {
+                    Console.WriteLine("Veikkaus::  X");
+
+                }
+                else
+                {
+
+
+                    Console.WriteLine("Veikkaus::  " + Math.Floor(luku * 3 + 1));
+
+                }
+
+            }
+
+______________________________________________
+
+static void Main(string[] args)
+        {
+            Random r = new Random();
+
+            //a) tulosta satunnaisluku välilt 1-10
+            for (int i = 0; i < 7; i++)
+            {
+                double luku = r.NextDouble();
+                Console.WriteLine("Lottonum ovat " + Math.Floor(luku * 40 + 1));
+                //myös r.Next(1,40)
+            }
+
+            //b tulostaa vakioveikkaus "1" "x" "2"
+            for (int i = 0; i < 13; i++)
+            {
+                double luku = r.NextDouble(); //välilt 0..1
+                if (Math.Floor(luku * 3 + 1) == 3) //jos tulee kolmonen niin sen tilalle tulee X
+                {
+                    Console.WriteLine("Veikkaus::  X");
+                }
+                else
+                {
+                    Console.WriteLine("Veikkaus::  " + Math.Floor(luku * 3 + 1));
+                }
+
+            }
+        }
+
+__________________________________________________________
+Luetteksit
+static void Main(string[] args)
+        {
+            Console.WriteLine("Kirjoita lause");
+            string teksti = Console.ReadLine();
+            Console.WriteLine("toinen sana oli " +teksti.Split(' ')[1]);
+
+
+            if (teksti.ToLower().Contains("minä"))
+            {
+                Console.WriteLine("Tykkäät puhua itsestäsi...");
+            }
+            if(teksti.ToLower().Contains("en"))
+            {
+                Console.WriteLine("älä ole negativiinen");
+            }
+        }
+________________________________________________
+
+
+
+
+
+
