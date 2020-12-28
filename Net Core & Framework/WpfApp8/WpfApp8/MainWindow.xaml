@@ -1,0 +1,30 @@
+﻿<Window x:Class="WpfApp8.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp8"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid x:Name="myCanvas" MouseLeftButtonDown="Grid_MouseLeftButtonDown" HorizontalAlignment="Left">
+        <Canvas x:Name="myCanvas1" HorizontalAlignment="Left" Height="332" Margin="19,19,0,0" VerticalAlignment="Top" Width="743">
+
+            <Ellipse x:Name="RingBlue" Stroke="Blue" StrokeThickness="10" RenderTransformOrigin="0.01,0.422" Height="167" Canvas.Left="120" Canvas.Top="32" Width="166"/>
+            <Ellipse x:Name="RingOrange" Stroke="Orange" StrokeThickness="10" RenderTransformOrigin="0.087,-0.561" Height="167" Canvas.Left="197" Canvas.Top="142" Width="166"/>
+            <Ellipse x:Name="RingBlack" Stroke="Black" StrokeThickness="10" RenderTransformOrigin="1.529,0.117" Height="167" Canvas.Left="260" Canvas.Top="32" Width="166"/>
+            <Ellipse x:Name="RingRed" Stroke="Red" StrokeThickness="10" Height="167" Canvas.Left="402" Canvas.Top="32" Width="166" RenderTransformOrigin="0.5,0.49"/>
+            <Ellipse x:Name="RingGreen" Stroke="Green" StrokeThickness="10" Height="169" Canvas.Left="336" Canvas.Top="144" Width="167" RenderTransformOrigin="0.5,0.5">
+                <Ellipse.RenderTransform>
+                    <TransformGroup>
+                        <ScaleTransform/>
+                        <SkewTransform/>
+                        <RotateTransform Angle="0.731"/>
+                        <TranslateTransform/>
+                    </TransformGroup>
+                </Ellipse.RenderTransform>
+            </Ellipse>
+            <Button x:Name="myButton" Content="Click-me" HorizontalAlignment="Left" VerticalAlignment="Top" Width="96" Click="MyButton_Click" Height="38" Canvas.Left="637" Canvas.Top="8"/>
+        </Canvas>
+        <local:Class1 x:Name="myClass" HorizontalAlignment="Left" Width="160" Margin="602,25,0,0" MouseLeftButtonDown="Class1_MouseLeftButtonDown"/>
+    </Grid>
+</Window>
