@@ -1,0 +1,40 @@
+﻿<Window x:Class="Menut11.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Menut11"
+        xmlns:p="clr-namespace:Menut11.Properties"
+        mc:Ignorable="d"
+        Title="Notepad" Height="450" Width="800">
+    <DockPanel>
+        <Menu DockPanel.Dock="Top">
+            <MenuItem Header="{x:Static p:Resources.MenuFile}">
+                <MenuItem Header="{x:Static p:Resources.Open}"  Click="MenuItem_Click_1" />
+                <MenuItem Header="{x:Static p:Resources.Save}" Click="MenuItem_Click_4" />
+                <MenuItem Header="{x:Static p:Resources.Print}" Click="MenuItem_Click_5" />
+            </MenuItem>
+            <MenuItem Header="{x:Static p:Resources.MenuEdit}">
+                <MenuItem Header="{x:Static p:Resources.Copy}" Click="MenuItem_Click_2" />
+                <MenuItem Header="{x:Static p:Resources.Paste}" Click="MenuItem_Click_6" />
+            </MenuItem>
+            <MenuItem Header="{x:Static p:Resources.MenuFormat}">
+                <MenuItem Header="{x:Static p:Resources.Font}" Click="MenuItem_Click_3" />
+            </MenuItem>
+            <MenuItem Header="{x:Static p:Resources.MenuWebsite}">
+                <MenuItem Header="{x:Static p:Resources.Lukkarit}" Click="MenuItem_Click_7" />
+                <MenuItem Header="{x:Static p:Resources.Website_reader}" Click="MenuItem_Click_8" />
+            </MenuItem>
+            <MenuItem Header="{x:Static p:Resources.MenuDrawing}">
+                <MenuItem Header="{x:Static p:Resources.Draw}" Click="MenuItem_Click_9" />
+            </MenuItem>
+            <MenuItem Header="{x:Static p:Resources.MenuNote}" Click="MenuItem_Click_10"></MenuItem>
+        </Menu>
+        <Grid>
+            <TextBox x:Name="textBox" AcceptsReturn="True" TextWrapping="Wrap" FontSize="22" />
+            <StackPanel Orientation="Horizontal"/>
+
+
+        </Grid>
+    </DockPanel>
+</Window>

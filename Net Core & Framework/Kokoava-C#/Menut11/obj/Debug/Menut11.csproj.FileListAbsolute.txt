@@ -1,0 +1,125 @@
+C:\Users\it16\source\repos\Menut11\Menut11\bin\Debug\Menut11.exe.config
+C:\Users\it16\source\repos\Menut11\Menut11\bin\Debug\Menut11.exe
+C:\Users\it16\source\repos\Menut11\Menut11\bin\Debug\Menut11.pdb
+C:\Users\it16\source\repos\Menut11\Menut11\obj\Debug\MainWindow.g.cs
+C:\Users\it16\source\repos\Menut11\Menut11\obj\Debug\App.g.cs
+C:\Users\it16\source\repos\Menut11\Menut11\obj\Debug\Menut11_MarkupCompile.cache
+C:\Users\it16\source\repos\Menut11\Menut11\obj\Debug\Menut11_MarkupCompile.lref
+C:\Users\it16\source\repos\Menut11\Menut11\obj\Debug\MainWindow.baml
+C:\Users\it16\source\repos\Menut11\Menut11\obj\Debug\Menut11.g.resources
+C:\Users\it16\source\repos\Menut11\Menut11\obj\Debug\Menut11.Properties.Resources.resources
+C:\Users\it16\source\repos\Menut11\Menut11\obj\Debug\Menut11.csproj.GenerateResource.cache
+C:\Users\it16\source\repos\Menut11\Menut11\obj\Debug\Menut11.csproj.CoreCompileInputs.cache
+C:\Users\it16\source\repos\Menut11\Menut11\obj\Debug\Menut11.exe
+C:\Users\it16\source\repos\Menut11\Menut11\obj\Debug\Menut11.pdb
+C:\Users\it16\source\repos\Menut11\Menut11\obj\Debug\Menut11.csprojAssemblyReference.cache
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\bin\Debug\Menut11.exe.config
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\bin\Debug\Menut11.exe
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\bin\Debug\Menut11.pdb
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\obj\Debug\Menut11.csprojAssemblyReference.cache
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\obj\Debug\MainWindow.g.cs
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\obj\Debug\App.g.cs
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\obj\Debug\Menut11_MarkupCompile.cache
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\obj\Debug\Menut11_MarkupCompile.lref
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\obj\Debug\MainWindow.baml
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\obj\Debug\Menut11.g.resources
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\obj\Debug\Menut11.Properties.Resources.resources
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\obj\Debug\Menut11.csproj.GenerateResource.cache
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\obj\Debug\Menut11.csproj.CoreCompileInputs.cache
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\obj\Debug\Menut11.exe
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\obj\Debug\Menut11.pdb
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\obj\Debug\Window1.g.cs
+C:\Users\it16\Downloads\VSProjektit20_270319\Menut11\Menut11\obj\Debug\Window1.baml
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\bin\Debug\Menut11.exe.config
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\bin\Debug\Menut11.exe
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\bin\Debug\Menut11.pdb
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.csprojAssemblyReference.cache
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\MainWindow.g.cs
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Window1.g.cs
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\App.g.cs
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11_MarkupCompile.cache
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11_MarkupCompile.lref
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\MainWindow.baml
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Window1.baml
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.g.resources
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.Properties.Resources.resources
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.csproj.GenerateResource.cache
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.csproj.CoreCompileInputs.cache
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.exe
+C:\Users\it16\Downloads\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.pdb
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\bin\Debug\Menut11.exe.config
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\bin\Debug\Menut11.exe
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\bin\Debug\Menut11.pdb
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\bin\Debug\sv-SE\Menut11.resources.dll
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.csprojAssemblyReference.cache
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\MainWindow.g.cs
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Window1.g.cs
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\App.g.cs
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11_MarkupCompile.cache
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11_MarkupCompile.lref
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\MainWindow.baml
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Window1.baml
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.g.resources
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.Properties.Resources.resources
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.Properties.Resources.sv-SE.resources
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.csproj.GenerateResource.cache
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.csproj.CoreCompileInputs.cache
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\sv-SE\Menut11.resources.dll
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.exe
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 27.3. - 9.4.19 (notepad)\Tehtävät 27.3. - 9.4.19 (notepad)\Menut11\obj\Debug\Menut11.pdb
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\bin\Debug\Menut11.exe.config
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\bin\Debug\Menut11.exe
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\bin\Debug\Menut11.pdb
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\bin\Debug\sv-SE\Menut11.resources.dll
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Menut11.csprojAssemblyReference.cache
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\MainWindow.g.cs
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Window1.g.cs
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\App.g.cs
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Menut11_MarkupCompile.cache
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Menut11_MarkupCompile.lref
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\MainWindow.baml
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Window1.baml
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Menut11.g.resources
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Menut11.Properties.Resources.resources
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Menut11.Properties.Resources.sv-SE.resources
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Menut11.csproj.GenerateResource.cache
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Menut11.csproj.CoreCompileInputs.cache
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\sv-SE\Menut11.resources.dll
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Menut11.exe
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Menut11.pdb
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Window2.g.cs
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Window2.baml
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Window3.g.cs
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Window3.baml
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Window4.g.cs
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Window4.baml
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Window5.g.cs
+C:\Users\it16\Documents\Käyttöliittymäohjelmointi\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Tehtävät 10.4. - 24.4.2019 (lokalisointi)\Menut11\obj\Debug\Window5.baml
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\bin\Debug\Menut11.exe.config
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\bin\Debug\Menut11.exe
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\bin\Debug\Menut11.pdb
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\bin\Debug\sv-SE\Menut11.resources.dll
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Menut11.csprojAssemblyReference.cache
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\MainWindow.g.cs
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Window1.g.cs
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Window2.g.cs
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Window3.g.cs
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Window4.g.cs
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Window5.g.cs
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\App.g.cs
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Menut11_MarkupCompile.cache
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Menut11_MarkupCompile.lref
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\MainWindow.baml
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Window1.baml
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Window2.baml
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Window3.baml
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Window4.baml
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Window5.baml
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Menut11.g.resources
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Menut11.Properties.Resources.resources
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Menut11.Properties.Resources.sv-SE.resources
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Menut11.csproj.GenerateResource.cache
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Menut11.csproj.CoreCompileInputs.cache
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\sv-SE\Menut11.resources.dll
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Menut11.exe
+C:\Users\it16\Documents\Grafiikkat\KÄYTTÖLIITTYMÄ-KANSIO\Käyttöliittymä_kokoava_tehtävä\Menut11\obj\Debug\Menut11.pdb
