@@ -11,7 +11,7 @@ namespace ConsoleApp18
         string alias;
         int pisteet;
 
-        //ctor <tab><tab>
+        //ctor <tab><tab> a
         public Pelaaja()
         {
 
