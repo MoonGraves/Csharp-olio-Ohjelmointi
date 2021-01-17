@@ -1,0 +1,26 @@
+using System;
+using System.IO;
+
+class MainClass {
+  public static void Main (string[] args) {
+    Console.WriteLine ("Hello World");
+
+  int sum = 0 , value = 0;
+
+  for(int i = 1; i <=5; i++)
+  {
+    Console.WriteLine("Enter integer {0} now", i);
+
+
+    while(!int.TryParse(Console.ReadLine(), out value))
+    {
+      //Lukaisee käyttäjän kirjoituksen koska TryParse niin kauan se syöttää se varsinaisen luvun
+      Console.WriteLine("This is not a valid integer. Type the real integer {0} now", i);
+    }
+    sum += value;
+  }
+  //Laskee kokonaisuuden summan tuloksen
+  Console.WriteLine(sum);
+
+  }
+}
